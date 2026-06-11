@@ -1,0 +1,21 @@
+ID_Proyek,Nama_Proyek,Durasi_Jam,Profit_Rp,Rasio_Profit_Per_Jam
+P01,Web Development,4,500000,125000.0
+P02,Mobile App Feature,8,1200000,150000.0
+P03,UI/UX Redesign,12,1500000,125000.0
+P04,Database Migration,16,2400000,150000.0
+P05,API Integration,6,900000,150000.0
+P06,Bug Fixing Sprint,3,350000,116666.66666666667
+P07,Cloud Deployment,10,1100000,110000.0
+P08,Security Auditing,14,2100000,150000.0
+P09,Data Analytics Dashboard,20,3200000,160000.0
+P10,Custom CRM Module,24,3600000,150000.0
+P11,E-learning Platform,18,2700000,150000.0
+P12,Payment Gateway Setup,5,750000,150000.0
+P13,DevOps Automation,15,2250000,150000.0
+P14,Social Media Bot,7,840000,120000.0
+P15,SAAS Landing Page,9,1350000,150000.0
+P16,GraphQL API Setup,11,1540000,140000.0
+P17,Microservices Refactoring,22,3080000,140000.0
+P18,Automated Testing Suite,13,1690000,130000.0
+P19,Shopify Store Customization,8,1040000,130000.0
+P20,PWA Implementation,17,2380000,140000.0
